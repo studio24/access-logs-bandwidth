@@ -8,18 +8,18 @@ This is a proof of concept at present and requires refactoring into a proper CLI
 
 ## Requirements
 
-* PHP 7.1+
+* PHP 7.2+
 * Composer
 
 ## Installation
-
-Until version 0.5 you need to install via dev-master. 
 
 ```
 composer install
 ```
 
-Add your log files to the `data/` folder and run `php access-logs-bandwidth.php`
+Add your log files to the `data/` folder.
+
+Run command: `php access-logs-bandwidth.php`
 
 ## License
 
